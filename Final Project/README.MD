@@ -1,7 +1,9 @@
 Group members: Dongyu_Li, Yuexin_Li.
 
+
 Basic Components for Final Project:
 Use JavaFX for GUI
+
 
 Include class diagram of your project in the submission
 
@@ -18,6 +20,8 @@ Have appropriate exception handling
 Add source code to GitHub account and send link with submission
 
 If you want to keep the repository private, add instructor and teaching assistant as a viewers at least until one month after end of semester
+
+
 
 Option # 1 (Image Management Tool):
 Take one or more image file(s) as input.
